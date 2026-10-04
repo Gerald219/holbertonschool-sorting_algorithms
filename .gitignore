@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*~
+*.o
+/build/
+/bubble
+/insertion
+/select
+/quick
